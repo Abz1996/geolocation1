@@ -90,7 +90,7 @@
         <version>7.0.0.Final</version>
     </dependency>
     </dependencies>
-<dependencies>
+    </dependencies>
     <build>
         <plugins>
             <plugin>
